@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Guia WhatsApp Fácil",
+  "description": "Aprenda a usar o WhatsApp de forma simples, segura e sem medo."
+}
